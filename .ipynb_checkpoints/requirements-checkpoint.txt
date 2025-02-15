@@ -1,0 +1,5 @@
+pydicom
+pandas
+matplotlib
+seaborn
+sqlite3  # This is built-in, no need to install separately
